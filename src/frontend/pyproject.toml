@@ -1,0 +1,15 @@
+[project]
+name = "frontend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "core",
+    "streamlit>=1.41.1",
+    "utils",
+]
+
+[tool.uv.sources]
+utils = { workspace = true }
+core = { workspace = true }
