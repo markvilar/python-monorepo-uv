@@ -31,6 +31,10 @@ cd src/frontend
 uv run streamlit run src/frontend/runner.py
 ```
 
+### Resources
+
+To get an overview the monorepo architecture, check out Magenta Qins blog post [Monorepo vs. Multi-repo vs. Monolith](https://medium.com/@magenta2127/monorepo-vs-multi-repo-vs-monolith-7c4a5f476009).
+
 ### Acknowledgement
 
 This repository is heavily inspired by [uv-monorepo](https://github.com/JasperHG90/uv-monorepo/tree/main).
