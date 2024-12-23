@@ -33,5 +33,4 @@ uv run streamlit run src/frontend/runner.py
 
 ### Acknowledgement
 
-This repository is heavily inspired by:
-- [uv-monorepo](https://github.com/JasperHG90/uv-monorepo/tree/main).
+This repository is heavily inspired by [uv-monorepo](https://github.com/JasperHG90/uv-monorepo/tree/main).
