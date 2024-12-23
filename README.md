@@ -24,7 +24,7 @@ cd src/backend
 uv run backend
 ```
 
-#### RUnning the frontend
+#### Running the frontend
 
 ```shell
 cd src/frontend
